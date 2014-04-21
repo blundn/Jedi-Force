@@ -1,6 +1,6 @@
 Jedi-Force
 ==========
-A tool for `brute force` applications. This is a tool for testing sever hackablity. For information on securing server, please see [Jedi-Force](https://github.com/blundn/Jedi-Force).
+A tool for securing server against brute force attacks. For information on testing your server by hacking, please see [Sith-Force](https://github.com/blundn/Jedi-Force).
 
 How to use:
 
